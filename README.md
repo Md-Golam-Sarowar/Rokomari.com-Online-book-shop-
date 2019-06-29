@@ -1,5 +1,5 @@
 # Rokomari.com-Online-book-shop-
-<br> <b>Functionalities: </b> </br>
+<br> <b>FUNCTIONALITIES: </b> </br>
 <br>•	Registration – Login in one page</br>
 <br>•	After Registration , user waits for admin confirmation</br>
 <br>•	Registration Confirmation By Email</br>
@@ -12,7 +12,7 @@
 <br>•	User must be logged in to buy</br>
 <br>•	Admin can insert book, update book , update users , confirm user registration.</br>
 <br> </br>
-<br><b> USER INSTRUCTION </b></br>
+<br><b> USER INSTRUCTIONS </b></br>
 <br>1. Put the project book shopping folder in htdocs folder under xamp folder .</br>
 <br>2. import the database project_book_shopping.sql</br>
 <br>3. Open the browser , go to localhost site .</br>
