@@ -1,5 +1,5 @@
 # Rokomari.com-Online-book-shop-
-<br> Functionalities:</br>
+<br> <b>Functionalities: </b> </br>
 <br>•	Registration – Login in one page</br>
 <br>•	After Registration , user waits for admin confirmation</br>
 <br>•	Registration Confirmation By Email</br>
